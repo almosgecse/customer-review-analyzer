@@ -1,4 +1,5 @@
 .env
+categorized_reviews.csv
 
 __pycache__/
 *.pyc
